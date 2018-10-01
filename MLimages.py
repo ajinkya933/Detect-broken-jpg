@@ -1,6 +1,6 @@
 # 10/20/2017
 # Created by Ajinkya Bobade
-#program to detect corrupt jpg images
+#program to detect corrupt jpg images and remove them
 
 
 import os
