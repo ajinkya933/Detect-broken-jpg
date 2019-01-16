@@ -1,0 +1,4 @@
+import os,glob
+
+for fi in glob.glob("*.gif"):
+     os.rename(fi, fi[:-3] + "jpg")
